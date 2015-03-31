@@ -3,7 +3,7 @@
 Plugin Name: Paypal Donation
 Plugin URI: http://buffercode.com/paypal-donation-wordpress-plugin/
 Description: This PayPal Donation WordPress Plugin gives high level of flexible to admin to share some of the real information for donation. 
-Version: 1.2.2
+Version: 1.2.3
 Author: vinoth06
 Author URI: http://buffercode.com/
 License: GPLv2
