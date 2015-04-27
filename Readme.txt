@@ -22,6 +22,7 @@ Through this plugin admin can,
 * User can able to select around four type of Currency. [Kindly request if needed more...]
 
 For more information : http://buffercode.com/paypal-donation-wordpress-plugin/
+
 v 1.2.4 [27/04/2015]
 
 * Support version 4.2
