@@ -3,8 +3,8 @@ Contributors: vinoth06, buffercode
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DHAEMST475BY
 Tags: paypal donation, donation, paypal, wordpress paypal, donation wp
 Requires at least: 3.3
-Tested up to: 4.1.1
-Stable tag: 1.2.3
+Tested up to: 4.2
+Stable tag: 1.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,6 +22,9 @@ Through this plugin admin can,
 * User can able to select around four type of Currency. [Kindly request if needed more...]
 
 For more information : http://buffercode.com/paypal-donation-wordpress-plugin/
+v 1.2.4 [27/04/2015]
+
+* Support version 4.2
 
 v 1.2.2 [31/03/2015]
 
@@ -59,6 +62,8 @@ v 1.0
 For more information : http://buffercode.com/paypal-donation-wordpress-plugin/
 
 == Changelog ==
+= 1.2.4 =
+* Support version 4.2
 = 1.2.2 =
 * Bug fixes and supports 4.1.1
 = 1.2.2 =
