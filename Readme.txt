@@ -3,8 +3,8 @@ Contributors: vinoth06, buffercode
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DHAEMST475BY
 Tags: paypal donation, donation, paypal, wordpress paypal, donation wp
 Requires at least: 3.3
-Tested up to: 4.2
-Stable tag: 1.2.4
+Tested up to: 4.2.4
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,8 +21,7 @@ Through this plugin admin can,
 * PayPal code box to enter the PayPal donation code.
 * User can able to select around four type of Currency. [Kindly request if needed more...]
 
-For more information : http://buffercode.com/paypal-donation-wordpress-plugin/
-
+For more information : http://buffercode.com/project/paypal-donation/
 v 1.2.4 [27/04/2015]
 
 * Support version 4.2
@@ -60,7 +59,7 @@ v 1.0
 4. Go to Setting Page then Add the expenses, upload the images, amount received information.
 5. Do save.
 
-For more information : http://buffercode.com/paypal-donation-wordpress-plugin/
+For more information : http://buffercode.com/project/paypal-donation/
 
 == Changelog ==
 = 1.2.4 =
@@ -80,7 +79,7 @@ For more information : http://buffercode.com/paypal-donation-wordpress-plugin/
 = 1.0 =
 * Public release
 
-For more information : http://buffercode.com/paypal-donation-wordpress-plugin/
+For more information : http://buffercode.com/project/paypal-donation/
 
 == Screenshots ==
 1. PayPal Donation below 40 percentage status message
